@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-The **User Journey Analysis** project is a powerful tool that analyzes customer behavior and the sequence of pages they visit when interacting with a product. The goal is to uncover insights that help improve the user experience, enhance the front page flow, and identify key areas for optimization. 
+The **User Journey Analysis** project analyzes customer behavior and the sequence of pages they visit when interacting with a product. The goal is to uncover insights that help improve the user experience, enhance the front page flow, and identify key areas for optimization. 
 
 🔍 This analysis focuses on:
 - Identifying important pages in the user journey
